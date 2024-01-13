@@ -1,7 +1,7 @@
-# Validate [BOZO](https://solscan.io/token/BoZoQQRAmYkr5iJhqo7DChAs7DPDwEZ5cv1vkYC9yzJG)
+# Validate [REMY] https://twitter.com/remyonsol D6hwKvHmu15jZkVXxGWYm7qDd8LHvMZsnBV5DQ4aU3yo
 
 ## Attestations (Please provide links):
-- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/bozocoinsol/status/1743405942090215473
+https://x.com/remyonsol/status/1745931088961163460?s=20
 - Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/{id}
 
 ## Validation (Please check off boxes):
